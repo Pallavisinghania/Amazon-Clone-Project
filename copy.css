@@ -1,0 +1,86 @@
+
+element.style {
+}
+#navbar * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#navbar.nav-bluebeacon #nav-xshop .nav-a {
+    padding: 7px 8px 7px 8px;
+    margin: 1px 2px 12px 1px;
+    color: #fff;
+}
+#nav-xshop .nav-a, #nav-xshop .nav-a:link, #nav-xshop .nav-a:visited {
+    color: #05a;
+    text-decoration: none;
+}
+#nav-xshop .nav-a {
+    float: left;
+    font-family: inherit;
+    font-size: 14px;
+}
+a.nav-a, a.nav-a:link, a.nav-a:visited {
+    font-family: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+a, a:link, a:visited {
+    text-decoration: none;
+    color: #007185;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+.nav-fill {
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+}
+#navbar {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 198;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 1em;
+    display: block;
+    zoom: 1;
+    min-width: 1000px;
+}
+.a-ember body {
+    font-family: "Amazon Ember", Arial, sans-serif;
+}
+body {
+    color: #0F1111;
+}
+body {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Arial, sans-serif;
+}
+:root {
+    --animation-length: 12s;
+    --animation-delay: 1s;
+    --animation-timing: 0.5;
+}
+:root {
+    --animation-length: 12s;
+    --animation-delay: 1s;
+    --animation-timing: 0.5;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+}
